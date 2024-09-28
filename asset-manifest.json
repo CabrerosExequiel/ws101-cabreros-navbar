@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-cabreros-navbar/static/css/main.afe700dc.css",
+    "main.js": "/ws101-cabreros-navbar/static/js/main.a0f1b9aa.js",
+    "index.html": "/ws101-cabreros-navbar/index.html",
+    "main.afe700dc.css.map": "/ws101-cabreros-navbar/static/css/main.afe700dc.css.map",
+    "main.a0f1b9aa.js.map": "/ws101-cabreros-navbar/static/js/main.a0f1b9aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe700dc.css",
+    "static/js/main.a0f1b9aa.js"
+  ]
+}
